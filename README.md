@@ -18,3 +18,10 @@ uv init  →  created pyproject.toml
 4. SummaryWebsite.ipynb to get summary of a website from url
 
 5. WebsiteBrochure.ipynb for Company Brochure from its web url
+
+6. Screenshot of final application
+## Screenshots
+![App Screenshot](images/Capture2.png)
+![App Screenshot](images/Capture3.png)
+![App Screenshot](images/Capture4.png)
+![App Screenshot](images/Capture5.png)
